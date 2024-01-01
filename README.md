@@ -1,0 +1,8 @@
+# [__Challenges__](#challenges)
+| Template Name      | Download Link                                                                    | Purpose         | Difficulty [⭐⭐⭐⭐⭐] |
+|---------------|-------------------------------------------------------------------------|--------------------------------------------------|-------------------------|
+| **Penetration Testing Report** | [Download]() | Comprehensive document detailing the findings, vulnerabilities, and recommendations discovered during a simulated cyber attack on a system or network | TCM Security |
+| **Malware Analysis Report** | [Download]() | In-depth examination of malicious software, aiming to understand its behavior, functionality, and impact on computer systems. It includes information on the malware's origin, purpose, attack vectors, and any countermeasures or mitigations that can be employed to defend against similar threats. | HuskyHacks |
+| **Capture-The-Flag Writeups** | [Download]() | Capture The Flag (CTF) writeups are documents that outline the step-by-step process of solving challenges or puzzles within a CTF competition.  | HackTheBox |
+| **Machine Writeups** | [Download]() | Documentation that describes the process of solving specific machines training platforms. These writeups typically cover the identification and exploitation of vulnerabilities in virtual machines to gain unauthorized access, mirroring real-world scenarios. | HackTheBox |
+| **HTB Sherlock Writeups** | [Download]() | A breakdown of simulated hands-on experiences encountered during defensive investigations. It includes details on the techniques, tools, and strategies employed to replicate real-life cases. | HackTheBox |
